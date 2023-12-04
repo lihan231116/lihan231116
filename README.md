@@ -1,3 +1,3 @@
 ### Hi! I'm LiQing. 👋
 
-## Js yyds!
+## I love js!
